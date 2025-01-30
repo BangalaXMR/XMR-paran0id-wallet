@@ -6,4 +6,6 @@ XMR-paran0id-wallet creates a temporary file to create your wallet which you spe
 You need to generate a very long entropy, roll 100 times your dice and write each result.
 
 Usage:
+```
 ./XMR-paran0id-wallet.sh
+```
